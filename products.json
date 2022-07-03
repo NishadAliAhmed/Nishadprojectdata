@@ -1,0 +1,146 @@
+[
+    {
+        "id":1,
+        "product_name":"Mobiles",
+        "category":"Electronics & Appliances",
+        "category_id":1,
+        "price":2000,
+        "image": "https://i.ibb.co/M1LYrMz/mobile-image.png",
+        "brand":"asus"
+    },
+    {
+        "id":2,
+        "product_name":"Computers & Laptops",
+        "category":"Electronics & Appliances",
+        "category_id":1,
+        "price":7000,
+        "image": "https://i.ibb.co/JnCrght/computer-image.jpg",
+        "brand":"acer" 
+    },
+    {
+        "id":3,
+        "product_name":"Fridges",
+        "category":"Electronics & Appliances",
+        "category_id":1,
+        "price":6000,
+        "image": "https://i.ibb.co/k9gYtQ8/fridge-image.png",
+        "brand":"onida"
+    },
+    {
+        "id":4,
+        "product_name":"Ac's",
+        "category":"Electronics & Appliances",
+        "category_id":1,
+        "price":4000,
+        "image": "https://i.ibb.co/QcX2gB6/ac-image.png",
+        "brand":"voltas"
+    },
+    {
+        "id":5,
+        "product_name":"Sofa",
+        "category":"Furnitures",
+        "category_id":2,
+        "price":5000,
+        "image": "https://i.ibb.co/zHQXn4x/sofa-image.png",
+        "brand":"trion" 
+    },
+    {
+        "id":6,
+        "product_name":"Dining",
+        "category":"Furnitures",
+        "category_id":2,
+        "price":7000,
+        "image": "https://i.ibb.co/KwpHh9V/dining-image.jpg",
+        "brand":"blywud" 
+    },
+    {
+        "id":7,
+        "product_name":"Cot & Beds",
+        "category":"Furnitures",
+        "category_id":2,
+        "price":6000,
+        "image": "https://i.ibb.co/4g1GgL4/cot-bed-image.jpg",
+        "brand":"peps" 
+    },
+    {
+        "id":8,
+        "product_name":"Household items",
+        "category":"Furnitures",
+        "category_id":2,
+        "price":15000,
+        "image": "https://i.ibb.co/bg55NFT/household-image.jpg",
+        "brand":"mixedbrand" 
+    },
+    {
+        "id":9,
+        "product_name":"Books",
+        "category":"Books & Sports Equipments",
+        "category_id":3,
+        "price":500,
+        "image": "https://i.ibb.co/HCN4VGW/books-image.png",
+        "brand":"mixedbrand" 
+    },
+    {
+        "id":10,
+        "product_name":"Cricket kits",
+        "category":"Books & Sports Equipments",
+        "category_id":3,
+        "price":25000,
+        "image": "https://i.ibb.co/5rTGPWK/cricket-kits-image.jpg",
+        "brand":"nike" 
+    },
+    {
+        "id":11,
+        "product_name":"indoor game kits",
+        "category":"Books & Sports Equipments",
+        "category_id":3,
+        "price":9000,
+        "image": "https://i.ibb.co/8sdL8Q8/indoor-game-kits-omage.webp",
+        "brand":"jingalo" 
+    },
+    {
+        "id":12,
+        "product_name":"Other Sport Equipments",
+        "category":"Books & Sports Equipments",
+        "category_id":3,
+        "price":18000,
+        "image": "https://i.ibb.co/8xMKLnZ/other-sport-equipments-image.jpg",
+        "brand":"mixedbrand" 
+    },
+    {
+        "id":13,
+        "product_name":"Micro cars",
+        "category":"Bikes & Cars",
+        "category_id":4,
+        "price":90000,
+        "image": "https://i.ibb.co/MMS6hBT/micro-cars-image.jpg",
+        "brand":"tata" 
+    },
+    {
+        "id":14,
+        "product_name":"CUV cars",
+        "category":"Bikes & Cars",
+        "category_id":4,
+        "price":350000,
+        "image": "https://i.ibb.co/30X8GWs/cuv-cars-image.jpg",
+        "brand":"hyundai" 
+    },
+    {
+        "id":15,
+        "product_name":"SUV cars",
+        "category":"Bikes & Cars",
+        "category_id":4,
+        "price":800000,
+        "image": "https://i.ibb.co/0CC9thn/suv-cars-image.png",
+        "brand":"benz" 
+    },
+    {
+        "id":16,
+        "product_name":"Motorcycles & Scooters",
+        "category":"Bikes & Cars",
+        "category_id":4,
+        "price":20000,
+        "image": "https://i.ibb.co/zNrywxB/motorcycles-and-scooters-image.jpg",
+        "brand":"suzuki" 
+    }
+]
